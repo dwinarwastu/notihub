@@ -4,9 +4,10 @@
 
 Built with **NestJS**, **BullMQ**, **Redis**, and **PostgreSQL**. Supports email, WhatsApp, and push notifications with async queue processing, retry logic, and per-channel Handlebars templates.
 
+![CI](https://github.com/dwinarwastu/notihub/actions/workflows/ci.yml/badge.svg)
+
 ---
 
-![CI](https://github.com/dwinarwastu/notihub/actions/workflows/ci.yml/badge.svg)
 
 ## Tech Stack
 
